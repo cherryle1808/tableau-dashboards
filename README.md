@@ -3,14 +3,17 @@
 An interactive Tableau dashboard built to help a marketing manager diagnose a
 year-over-year sales decline and identify where to focus recovery campaigns.
 
-📖 **[Key insights & trends](./ANALYSIS.md)** 
-· 🎯 **[Recommendations & campaign strategy](./RECOMMENDATIONS.md)** 
-· 🎨 **[Design notes: audience, chart choices, data ethics](./DESIGN-NOTES.md)**
+📊 **[View interactive dashboard on Tableau Public](https://public.tableau.com/views/HanLe_Backup31/Dashboard1)**
 
 ## Business Problem
-GoodNews National Bookstore has seen a sharp year-over-year sales decline. The Marketing Manager needs to quantify how severe it is, identify which customer segments are driving it, and decide what kind of campaign is most likely to recover revenue — backed by data rather than guesswork.
+
+GoodNews National Bookstore has seen a sharp year-over-year sales decline.
+The Marketing Manager needs to quantify how severe it is, identify which
+customer segments are driving it, and decide what kind of campaign is most
+likely to recover revenue — backed by data rather than guesswork.
 
 ## Dashboard Goal
+
 Give the Marketing Manager a single view to:
 - See the overall health of the business at a glance
 - Compare segment performance year-over-year to find where revenue was lost
